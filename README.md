@@ -1,7 +1,7 @@
 # Data-professional-survey
 
 The data set for this project was created by Alex the analyst. He created a survey for data professionals and about 630 professionals took the survey.
-The dataset link can be accessed [here] (https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
+The dataset link can be accessed here (https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
 
 ##  Task
 * Data wrangling and cleaning
@@ -14,4 +14,4 @@ The dataset link can be accessed [here] (https://github.com/AlexTheAnalyst/Power
 * Power Query
 * Power BI
 
-![The project dashboard]()
+![The project dashboard](https://github.com/Seped28/Data-professional-survey/blob/main/Data%20survey%20dashboard.jpg)
